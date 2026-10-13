@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:security@lindqvist-audit.com
+Expires: 2027-10-13T00:00:00.000Z
+Encryption: https://github.com/lindqvist-audit.gpg
+Preferred-Languages: en, sv
+Policy: https://github.com/lindqvist-audit/lindqvist-audit/blob/main/README.md
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQSTW/SjK2lV5l8XQeGlnrEjT6XG7wUCas4jdgAKCRClnrEjT6XG
+73lEAQDaYgFov5zzOSxKXK5SBBBP/popUzvhUKN7zh20sF+uJgEAvdRphQCLxuG7
+reWmWJZf5k3F38bkY9t78f0bKuZ0vQE=
+=pZ34
+-----END PGP SIGNATURE-----
